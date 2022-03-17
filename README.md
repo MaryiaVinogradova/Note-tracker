@@ -44,4 +44,4 @@
   https://github.com/MaryiaVinogradova/Note-tracker.git
 
   Heroku:
-  https://dashboard.heroku.com/apps
+  https://note-tracker-app-mv.herokuapp.com/
